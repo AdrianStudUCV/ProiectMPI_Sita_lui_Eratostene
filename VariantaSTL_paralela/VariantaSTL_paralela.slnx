@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="VariantaSTL_paralela.vcxproj" />
+  <Project Path="VariantaSTL_paralela.vcxproj" Id="251acae0-9382-45bb-9550-ac3858aa6c61" />
 </Solution>
